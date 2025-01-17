@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Creating an app in Kotlin using Android Studio and building projects using Java.<br>🌱 I’m currently learning: Advanced Android app development, improving my Java skills, and enhancing my understanding of databases in Java (Swing).<br>👯 I’m looking to collaborate on: App development projects in Kotlin.<br>🤔 I’m looking for help with: Understanding more complex Java topics like Swing with databases and improving my coding workflow beyond tutorials.<br>📫 How to reach me: On LinkedIn.<br>⚡ Fun fact: I recently created an RGB Color Generator App and shared it on LinkedIn!
+🔭 I’m currently working on: ML Projects.<br>🌱 I’m currently learning: Machine learning and deep learning, improving my AI skills, and enhancing my understanding of databases in Java (Swing).<br>👯 I’m looking to collaborate on: App development projects in Kotlin.📫 How to reach me: On LinkedIn.<br>
 
 
 ## 🌐 Socials:
